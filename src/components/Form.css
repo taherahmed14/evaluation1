@@ -1,0 +1,33 @@
+input{
+    margin: 2px;
+    padding: 8px;
+    border: none;
+}
+
+.inputIng{
+    padding: 8px;
+    height: 50px;
+    border: none;
+}
+
+.card{
+    margin: 20px 0px 0px 60px;
+    width: 250px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button, .button{
+    background-color: #CFFFDC;
+    border: none;
+    color: #7900FF;
+    padding: 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.button:hover, button:hover{
+    background-color: #7900FF;
+    color: #CFFFDC;
+}
